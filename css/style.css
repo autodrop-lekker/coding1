@@ -346,7 +346,7 @@ a:hover {
 }
 .info__left {
   width: 50%;
-  margin-top: 80px;
+  padding-top: 80px;
   margin-left: 110px;
   background: #FFF5FE;
 }
