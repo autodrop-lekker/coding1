@@ -186,7 +186,7 @@ a:hover {
 }
 
 .greeting {
-  background: url(https://github.com/autodrop-lekker/coding1/blob/main/img/dryfood.jpg), url(https://github.com/autodrop-lekker/coding1/blob/main/img/Group.png?raw=true), #FFF5FE;
+  background: url(https://github.com/autodrop-lekker/coding1/blob/main/img/dryfood.jpg?raw=true), url(https://github.com/autodrop-lekker/coding1/blob/main/img/Group.png?raw=true), #FFF5FE;
   background-repeat: no-repeat, no-repeat;
   background-position: left bottom, right;
   background-size: 40%, contain;
@@ -314,7 +314,7 @@ a:hover {
 }
 .cards .button::after {
   content: "";
-  background-image: url(https://github.com/autodrop-lekker/coding1/blob/main/img/right-chevron.png);
+  background-image: url(https://github.com/autodrop-lekker/coding1/blob/main/img/right-chevron.png?raw=true);
   background-size: contain;
   vertical-align: middle;
   display: inline-block;
