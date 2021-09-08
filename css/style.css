@@ -241,6 +241,11 @@ a:hover {
     padding: 40px 15px 40px;
   }
 }
+@media (min-width: 768px) and (max-width: 1139px) {
+  .cards {
+    padding: 30px 20px 30px;
+  }
+}
 .cards__bg {
   background: #FFF5FE;
 }
