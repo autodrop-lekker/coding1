@@ -314,7 +314,7 @@ a:hover {
 }
 .cards .button::after {
   content: "";
-  background-image: url(img/right-chevron.png);
+  background-image: url(https://github.com/autodrop-lekker/coding1/blob/main/img/right-chevron.png);
   background-size: contain;
   vertical-align: middle;
   display: inline-block;
