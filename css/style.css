@@ -136,8 +136,8 @@ a:hover {
 }
 
 .hero {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url(img/cat-food-delivery-testing-960x540.jpg) no-repeat center center/cover;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/cat-food-delivery-testing-960x540.jpg) no-repeat center center/cover;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url(/img/cat-food-delivery-testing-960x540.jpg) no-repeat center center/cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/cat-food-delivery-testing-960x540.jpg) no-repeat center center/cover;
   height: 668px;
   position: relative;
   width: 100%;
@@ -186,7 +186,7 @@ a:hover {
 }
 
 .greeting {
-  background: url(img/dryfood.jpg), url(img/Group.png), #FFF5FE;
+  background: url(/img/dryfood.jpg), url(/img/Group.png), #FFF5FE;
   background-repeat: no-repeat, no-repeat;
   background-position: left bottom, right;
   background-size: 40%, contain;
@@ -233,7 +233,7 @@ a:hover {
 }
 
 .cards {
-  background: url(img/Pet-Foodbg.jpg) no-repeat center center/cover;
+  background: url(/img/Pet-Foodbg.jpg) no-repeat center center/cover;
   padding: 90px 0 95px;
 }
 @media (max-width: 767px) {
