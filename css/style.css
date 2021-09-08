@@ -186,7 +186,7 @@ a:hover {
 }
 
 .greeting {
-  background: url(https://github.com/autodrop-lekker/coding1/blob/main/img/dryfood.jpg), url(/img/Group.png), #FFF5FE;
+  background: url(https://github.com/autodrop-lekker/coding1/blob/main/img/dryfood.jpg), url(https://github.com/autodrop-lekker/coding1/blob/main/img/Group.png), #FFF5FE;
   background-repeat: no-repeat, no-repeat;
   background-position: left bottom, right;
   background-size: 40%, contain;
