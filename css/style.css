@@ -300,6 +300,7 @@ a:hover {
 .cards__list__item__img img {
   width: 100%;
   height: 240px;
+  object-fit: cover;
 }
 .cards__list__item__paragraph {
   margin-top: 13px;
